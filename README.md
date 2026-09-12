@@ -73,19 +73,19 @@ Across **97,849 residential positive-price sales**, recorded prices varied subst
 
 ### Residential Sale-Price Distribution by Borough
 
-![Residential sale-price distribution by borough](reports/figures/residential_sale_price_distribution_by_borough.png)
+![Residential sale-price distribution by borough](./reports/figures/residential_sale_price_distribution_by_borough.png)
 
 Recorded residential sale prices are strongly right-skewed across all five boroughs, with substantial differences in their distributions.
 
 ### Property Size and Sale Price
 
-![Residential sale price versus gross building area](reports/figures/residential_sale_price_vs_gross_building_area.png)
+![Residential sale price versus gross building area](./reports/figures/residential_sale_price_vs_gross_building_area.png)
 
 Larger buildings generally have higher recorded sale prices, but the strength of the relationship varies substantially across boroughs.
 
 ### Neighborhood Price per Square Foot
 
-![Highest median price per square foot by neighborhood](reports/figures/highest_median_price_per_square_foot_by_neighborhood.png)
+![Highest median price per square foot by neighborhood](./reports/figures/highest_median_price_per_square_foot_by_neighborhood.png)
 
 Among borough-neighborhood groups with at least 50 eligible size-based sales, Greenwich Village-West had the highest median price per square foot.
 
